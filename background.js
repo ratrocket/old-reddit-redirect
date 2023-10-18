@@ -1,4 +1,5 @@
-const oldReddit = "https://teddit.net";
+// const oldReddit = "https://teddit.net";
+const oldReddit = "https://old.reddit.com";
 const excludedPaths = [
   "/poll",
   "/rpan",
